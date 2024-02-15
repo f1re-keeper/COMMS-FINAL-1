@@ -46,7 +46,8 @@ while (true)
                     break;
                 case 3: Operation3(history);
                     operationDone = history.Count >= 5;
-                    newAmount = history[history.Count - 1].amount;
+                    if (history.Count != 0)
+                        newAmount = history[history.Count - 1].amount;
                     type = "Get last 5 transactions\n";
                         break;
                 case 4:
