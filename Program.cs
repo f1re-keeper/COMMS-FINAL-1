@@ -16,7 +16,6 @@ while (true)
     if (ans == "n") break;
 
     CardDetails cardDetails = enterCardDetails();
-    var newData = data;
 
     if (cardIsValid(cardDetails, user))
     {
@@ -68,7 +67,6 @@ while (true)
             {
                 user.transactionHistory.Add(new Transaction(DateTime.Now.ToString(), type, newAmount));
                 var serialized = JsonConvert.SerializeObject(user, Formatting.Indented);
-                newData = newData + serialized;
 
                 File.WriteAllText(@"C:\Users\emper\source\repos\FINAL_PROJECT\FinalProject\database.json", serialized);
             }
