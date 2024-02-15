@@ -1,0 +1,13 @@
+{
+  "firstName": "John",
+  "lastName": "Doe",
+  "cardDetails": {
+    "cardNumber": "1234-5678-9012-3456",
+    "expirationDate": "12/25",
+    "CVC": "123"
+  },
+  "pinCode": "1234",
+  "transactionHistory": [
+  
+  ]
+}

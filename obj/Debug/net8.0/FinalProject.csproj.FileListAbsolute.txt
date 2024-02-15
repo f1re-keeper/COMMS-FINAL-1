@@ -1,0 +1,17 @@
+C:\Users\emper\source\repos\FINAL_PROJECT\FinalProject\bin\Debug\net8.0\FinalProject.exe
+C:\Users\emper\source\repos\FINAL_PROJECT\FinalProject\bin\Debug\net8.0\FinalProject.deps.json
+C:\Users\emper\source\repos\FINAL_PROJECT\FinalProject\bin\Debug\net8.0\FinalProject.runtimeconfig.json
+C:\Users\emper\source\repos\FINAL_PROJECT\FinalProject\bin\Debug\net8.0\FinalProject.dll
+C:\Users\emper\source\repos\FINAL_PROJECT\FinalProject\bin\Debug\net8.0\FinalProject.pdb
+C:\Users\emper\source\repos\FINAL_PROJECT\FinalProject\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\emper\source\repos\FINAL_PROJECT\FinalProject\obj\Debug\net8.0\FinalProject.csproj.AssemblyReference.cache
+C:\Users\emper\source\repos\FINAL_PROJECT\FinalProject\obj\Debug\net8.0\FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emper\source\repos\FINAL_PROJECT\FinalProject\obj\Debug\net8.0\FinalProject.AssemblyInfoInputs.cache
+C:\Users\emper\source\repos\FINAL_PROJECT\FinalProject\obj\Debug\net8.0\FinalProject.AssemblyInfo.cs
+C:\Users\emper\source\repos\FINAL_PROJECT\FinalProject\obj\Debug\net8.0\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\emper\source\repos\FINAL_PROJECT\FinalProject\obj\Debug\net8.0\FinalProject.csproj.CopyComplete
+C:\Users\emper\source\repos\FINAL_PROJECT\FinalProject\obj\Debug\net8.0\FinalProject.dll
+C:\Users\emper\source\repos\FINAL_PROJECT\FinalProject\obj\Debug\net8.0\refint\FinalProject.dll
+C:\Users\emper\source\repos\FINAL_PROJECT\FinalProject\obj\Debug\net8.0\FinalProject.pdb
+C:\Users\emper\source\repos\FINAL_PROJECT\FinalProject\obj\Debug\net8.0\FinalProject.genruntimeconfig.cache
+C:\Users\emper\source\repos\FINAL_PROJECT\FinalProject\obj\Debug\net8.0\ref\FinalProject.dll
