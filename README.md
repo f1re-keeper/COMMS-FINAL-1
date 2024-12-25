@@ -1,3 +1,3 @@
 # COMMS-FINAL-1
-COMMSCHOOL C# % .NET კურსის პირველი ეტაპის ფინალური პროექტი: ATM სიმულატორი
-(JSON ფაილის მისამართი შეცვალეთ თქვენს კომპიუტერში შესაბამისი მისამართით, რათა პროგრამამ იმუშაოს)
+COMMSCHOOL C# & .NET first half final project: ATM Simulator.
+Change the JSON file address in the code with the JSON file address in your computer so that the program works for you, too
